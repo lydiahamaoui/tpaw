@@ -1,0 +1,33 @@
+table,tr,td{
+    border : 2px solid black;
+}
+table {
+    border-collapse: initial;
+    width: 90%;
+    background: rgb(168, 164, 164);
+}
+a{
+    text-decoration: none ;    
+} 
+a:hover{
+    color: #a81031;
+    border-bottom: 3px solid #be3d12;
+    text-decoration: none; }
+    
+    tr:hover{
+        color: rgb(61, 3, 19);
+        border-bottom: 3px solid #da0f0f
+    }
+    img:hover {
+        width : 30px;
+        height : 30px;
+
+        
+
+    }
+    #title_principal {
+        text-align: center;
+    }
+    body {
+        background-color: rgb(155, 44, 121) 
+    }
