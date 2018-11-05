@@ -1,33 +1,55 @@
-<!doctype html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>TP2</title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+<!DOCTYPE html>
+<html lang="fr-FR">
+	<head>
+		<meta charset ="utf-8">
+		<title> S'enregister </title>
+		<meta name="vieuxport" content="width-device-width, initial-scale=1.0"/>
+		<meta name="description" content="formulaire qui permet de s'enregister"/> 
+		<link rel="stylesheet" href="tp2.css"/>  
+		<script type="text/javascript" src="formulaire.js"></script>  
 
-        <link rel="apple-touch-icon" href="apple-touch-icon.png">
-        <!-- Place favicon.ico in the root directory -->
+	</head>
+	<body>
+		<h1>Saisie d'une fiche "Personne"</h1>
+		<form id="MonFormulaire"  method="POST" >
+			<div> 
+				<label for="nom">Nom </label> 
+				<input type="text" name="monNom"  id="nom" minlength="5" maxlength="20"/>
+			</div>
+		</br>
 
-        <style>
-          body{
-              background-color: #e9ebee;              
-              font-family: system, -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
-              font-size: 16px;
-              margin: 0 auto;
-              max-width: 800px;              
-          }
-        </style>
+		   <div>  
+		  		<label for="prenom">Prénom </label>  
+		  		<input type="text" name="prenom" id="prenom" minlength="5" maxlength="20"/>
+		  </div> 
+		</br>
+		   <div> 
+
+		 	 <label for="date">Date de naissance</label>  
+              <input type="date" id="naissance" name="naissance" placeholder= "JJ/MM/AAAA"/>
+            </div> 
+        </br>
+        <div> 
+            <label for="adresse">Adresse Postale</label> 
+            <input type="text" name="adresse"  id="adresse" minlength="5" maxlength="50"/>
+     </div>
+ </br>
+      <div> 
+            <label for="mail">Email </label>
+            <input type="email" name="mail" id="mail" minlength="5" maxlength="30"/>
+    </div>
+         </br>
+
+      <div class="bouton"> 
+         <input type="button" value="Valider" onclick="validation()"/>
+         </div>
+     </form>
+
+     <div id="error" hidden>  </div>
+
+     
+     <div id="resultat" hidden> </div>
+ </body>
+
+
         
-        <!-- Code à dé-commenter si besoin de fichier CSS ou JS -->
-        <!--<link rel="stylesheet" href="style.css">-->
-        <!--<script src="js/main.js"></script>-->
-    </head>
-    <body>        
-        <h1>tp2</h1>
-        <!-- Add your site or application content here -->
-        <p>Hello world! This is HTML5 Boilerplate.</p>
-        <img src="../galilee.png" alt="Logo Galilee"/>
-    </body>
-</html>
