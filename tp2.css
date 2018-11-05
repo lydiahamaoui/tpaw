@@ -1,0 +1,63 @@
+h1{
+    text-align: center;
+    color: rgb(142, 151, 151);
+    
+}
+
+body {
+    font-family: arial;
+    background-color: rgb(3, 68, 90);
+}
+/* centrer le formulaire  */
+form{
+	margin: 0 auto;
+    width: 450px;
+    padding: 2em;
+    border: 2px  double #33253330 ;
+    border-radius: 2em;
+    background-color: rgb(145, 145, 120);
+}
+
+
+label {
+  /*   aligner les étiquettes */
+  display: inline-block  ;
+  width: 140px;
+  text-align: right;
+}
+
+input {
+   
+  font: 1em italic;
+ }
+ .bouton{
+ 	     padding-left: 40px;
+          margin-left: .10em;
+          text-align: center
+ }
+ form input{
+     padding: 10px;
+     width : 50%;
+
+ }
+
+ div label{
+ 	text-align: left;
+ }
+ #error{
+ 	margin: 0 auto;
+    width: 400px;
+
+ 	background-color: rgb(231, 27, 197);
+ 	padding: 10px;
+ 	border: 1px black;
+ }
+ #resultat{
+ 	margin: 0 auto;
+    width: 400px;
+ 	background-color: rgb(11, 82, 11);
+ 	padding: 10px;
+ 	border: 1px black;
+ 	text-decoration: white;
+
+ 	 }

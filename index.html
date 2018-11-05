@@ -1,107 +1,55 @@
-<DOCTYPE html > 
-    <html lang="fr-FR">
-        <head>
-<meta charset= "UTF-8">
-<title> Mon CV </title> 
-<meta name="description" content="cv"/>
-<link rel="stylesheet" href="Moncv.css"/>
-        </head>
-<body>
+<!DOCTYPE html>
+<html lang="fr-FR">
+	<head>
+		<meta charset ="utf-8">
+		<title> S'enregister </title>
+		<meta name="vieuxport" content="width-device-width, initial-scale=1.0"/>
+		<meta name="description" content="formulaire qui permet de s'enregister"/> 
+		<link rel="stylesheet" href="tp2.css"/>  
+		<script type="text/javascript" src="formulaire.js"></script>  
 
-        <table style="width:100%" border="1"> 
-        <tr>
-            <td>Lydia HAMAOUI </td>
-            <td>Célibataire </td>
-        </tr>  
-        <tr>
-            <td> Villetaneuse université </td>
-            <td> Permis B </td>
-        </tr>  
-        <tr>
-           <td> 0666666666  </td>
+	</head>
+	<body>
+		<h1>Saisie d'une fiche "Personne"</h1>
+		<form id="MonFormulaire"  method="POST" >
+			<div> 
+				<label for="nom">Nom </label> 
+				<input type="text" name="monNom"  id="nom" minlength="5" maxlength="20"/>
+			</div>
+		</br>
 
-            <td> <a href="outlook.fr">hamaouilydia@outlook.fr </a>  </td>
-        </tr>
+		   <div>  
+		  		<label for="prenom">Prénom </label>  
+		  		<input type="text" name="prenom" id="prenom" minlength="5" maxlength="20"/>
+		  </div> 
+		</br>
+		   <div> 
+
+		 	 <label for="date">Date de naissance</label>  
+              <input type="date" id="naissance" name="naissance" placeholder= "JJ/MM/AAAA"/>
+            </div> 
+        </br>
+        <div> 
+            <label for="adresse">Adresse Postale</label> 
+            <input type="text" name="adresse"  id="adresse" minlength="5" maxlength="50"/>
+     </div>
+ </br>
+      <div> 
+            <label for="mail">Email </label>
+            <input type="email" name="mail" id="mail" minlength="5" maxlength="30"/>
+    </div>
+         </br>
+
+      <div class="bouton"> 
+         <input type="button" value="Valider" onclick="validation()"/>
+         </div>
+     </form>
+
+     <div id="error" hidden>  </div>
+
+     
+     <div id="resultat" hidden> </div>
+ </body>
+
+
         
-        </table>
-        <h1> Ingénieur d'études et développement</h1>
-        <h1> Formation </h1>
-        <table style="width:100%" border="1">
-            <tr>
-                <td> 2017-2019 </td>
-                <td> <a  href="master.html"> Master_3IR </a> à l'institut Galiléé </td>
-            </tr>
-            <tr>
-                <td> 2016-2017 </td>
-                <td> <a href="Licence.html">Licence sciences pour l'ingénieur</a> à l"institut Galilée </td> 
-            </tr>
-            <tr>
-              <td> 2013-2016 </td> 
-              <td> <a href="LicenceTelecommunication.html">Licence en Telecommunication </a> à Abd Rahmane Mira (Bejaia) </td> 
-
-            </tr>
-            <tr>
-                <td> 2013 </td>
-                <td> <a href="BAC.html"> Bac S </a> à Bejaia</td>
-            </tr>
-            
-        </table>
-        <table style="width:100%" border="1">
-        <h1> Compétences </h1>
-        <tr>  
-          <td> Développement </td>
-          <td> JAVA,HTML </td>        
-         </tr>
-         <tr> 
-             <td> Bases de Données </td>
-             <td> SQL </td>     
-         </tr>
-         <tr>
-             <td> Réseaux </td>
-             <td> IPV4,LAN,WIFI</td>
-            
-         </tr>
-         <tr>
-             <td> Langues </td>
-             <td> Anglais : Niveau Intermédiaire, Arabe : Niveau Bon</td>
-         </tr>
-    </table>
-    <table style="width:100%" border="1">
-        <h1> Expériences </h1>
-        <tr>
-            <td> 2019</td>
-            <td> Stage de fin d'étude chez <img src="orange.png" alt="logo orange"/> </td>
-
-        </tr>
-        <tr>
-            <td> 2016 </td>
-            <td> Stage Découverte chez Algérie Telecom </td>
-        </tr>
-        <tr>
-                <td> 2015 </td>
-                <td> Stage Découverte chez Entreprise X </td>
-            </tr>
-    </table>
-    <table style="width:100%" border="1">
-            <h1> Centres d'intéret </h1>
-            <tr> 
-                     <td> Nouvelles technologies</td>
-                
-            </tr>
-            <tr>
-                    <td> Jeux de réfléxion </td>
-            </tr>
-            <tr>
-                    <td> Romans fantastiques</td>   
-            </tr>
-            <tr>
-                    <td> Danse moderne </td>
-            </tr>
-                    
-</body>
-
-
-
-
-
-    </html>
