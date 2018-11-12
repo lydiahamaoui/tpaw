@@ -35,7 +35,7 @@ $(document).ready(function () {
         else {
             $('#myModal2').modal("show");
             document.getElementById('welcome').innerHTML= "Bienvenue  "+ document.querySelector("#prenom").value;
-            document.getElementById('message').innerHTML= "Vous etes nés le  "+ document.querySelector("#date").value +" et vous habitez à Pére Lachaise ";
+            document.getElementById('message').innerHTML= "Vous etes nés le  "+ document.querySelector("#date").value +" et vous habitez à  ";
             document.getElementById('message2').innerHTML=  document.querySelector("#adresse").value ;
 
             
@@ -44,14 +44,10 @@ $(document).ready(function () {
 
         [].forEach.call(urls, function (item) {
             
-            item.setAttribute("href", "https://www.google.fr/maps/@48.8631363,2.3848379,477m/data=!3m1!1e3"+document.querySelector("#adresse").value);
+            item.setAttribute("href", "https://maps.googleapis.com/maps/api/staticmap?markers="+  $("#adresse").val()+"&zoom=10&size=400x300&key=AIzaSyAkmvI9DazzG9p77IShsz_Di7-5Qn7zkcg");
         });
 
         }
-
-
-
-
 
        
 
