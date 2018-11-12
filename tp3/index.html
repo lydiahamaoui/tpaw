@@ -1,33 +1,125 @@
-<!doctype html>
+﻿<!doctype html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>TP3</title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <link rel="apple-touch-icon" href="apple-touch-icon.png">
-        <!-- Place favicon.ico in the root directory -->
+<head>
+    <meta charset="utf-8">
+    <title>S'enregister</title>
+    
+    <!-- jquery pour pouvoir utiliser les composants JS de boostap (modal, tooltip...) -->
+    <script src="js/slim.min.js"></script>
 
-        <style>
-          body{
-              background-color: #e9ebee;              
-              font-family: system, -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
-              font-size: 16px;
-              margin: 0 auto;
-              max-width: 800px;              
-          }
-        </style>
-        
-        <!-- Code à dé-commenter si besoin de fichier CSS ou JS -->
-        <!--<link rel="stylesheet" href="style.css">-->
-        <!--<script src="main.js"></script>-->
-    </head>
-    <body>        
-        <h1>tp3</h1>
-        <!-- Add your site or application content here -->
-        <p>Hello world! This is HTML5 Boilerplate.</p>
-        <img src="../galilee.png" alt="Logo Galilee"/>
-    </body>
+    <!-- CSS boostrap -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+
+    <script src="js/popper.min.js"></script>
+
+    <!-- composants JS de boostrap (modal http://getbootstrap.com/docs/4.0/components/modal/ , collapse...) -->
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/form-jquery-validation.js"></script>
+    <script src="date.js"></script>
+</head>
+
+<body>
+    <div class="container"
+        style="margin: 0 auto;
+        width: 650px;
+        height: 50%;
+        padding: 1em;
+        border: 1px solid #6e6657 ;
+        border-radius: 1em;
+        background-color:rgb(180, 178, 201);"> 
+
+       
+          
+       
+       
+       <h1>TP AW - FORMULAIRE V2</h1>
+        <P> AVEC bootstrap et jquery </P> 
+
+        <form id="form" action="" onsubmit="validation(); return false">
+            <div class="form-group">
+                <label for="inputNom">Nom</label>
+                <input type="text" class="form-control" id="nom" placeholder="ex:HAMAOUI">
+            </div>
+
+            <div class="form-group ">
+                <label for="inputPrenom">Prénom</label>
+                <input type="text" class="form-control" id="prenom" placeholder="ex:Lydia">
+            </div>
+
+
+
+            <div class="form-group ">
+                <label for="inputDate" class="col-10 col-form-label">Date de naissance</label>
+                    <input class="form-control" type="date" id="date" placeholder="JJ/MM/AAAA">
+                    <div class="col-10">
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="inputAdresse">Adresse</label>
+                <input type="text" class="form-control" id="adresse" placeholder="ex:Paris">
+            </div>
+
+            <div class="form-group">
+                <label for="inputMail">Mail</label>
+                <input type="email" class="form-control" id="mail" placeholder="ex:LH@gmail.com">
+            </div>
+
+            <button class="btn btn-primary" type="submit" id="Valider">Valider </button>
+        </form>
+
+        <div class="modal" tabindex="-1" role="dialog" id="myModal">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title">Erreur !! </h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <p>Veuillez remplir tous les champs svp.</p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-primary">Save changes</button>
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="modal" tabindex="-1" role="dialog" id="myModal2">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="welcome"> </h5>
+
+
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <p id="message"> </p>
+
+                        <a class="mapUrl" href="https://www.google.fr/maps/@48.8631363,2.3848379,477m/data=!3m1!1e3">
+                            <img src="paris20.jpg" alt="image paris" width="300" height="300" title="image" </img> </a>
+                    </div> 
+                    <div class="modal-footer">
+                            <a class="mapUrl" id="message2" href="http://maps.google.com/maps?q=Paris">
+                            </a>
+                            <button type="button" class="btn btn-primary">Save changes</button>
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+    </div>
+
+</body>
+
 </html>
