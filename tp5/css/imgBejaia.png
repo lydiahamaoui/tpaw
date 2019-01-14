@@ -1,0 +1,816 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr-fr" lang="fr-fr" >
+<head>
+	<meta content="width=device-width, initial-scale=1" name="viewport">
+
+	<link href='https://fonts.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700,700italic,900,900italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>    <base href="http://www.univ-bejaia.dz/jemp2018/index.php/fr/" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="author" content="Super Utilisateur" />
+	<meta name="description" content="Les Journées d'Etude des Matériaux Polymères" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Accueil</title>
+	<link href="http://www.univ-bejaia.dz/jemp2018/index.php/fr/" rel="alternate" hreflang="fr-FR" />
+	<link href="http://www.univ-bejaia.dz/jemp2018/index.php/en/" rel="alternate" hreflang="en-GB" />
+	<link href="/jemp2018/templates/as002085free/css/bootstrap.css" rel="stylesheet" type="text/css" />
+	<link href="/jemp2018/templates/as002085free/css/bootstrap.responsive.css" rel="stylesheet" type="text/css" />
+	<link href="/jemp2018/templates/as002085free/css/tmpl.default.css" rel="stylesheet" type="text/css" />
+	<link href="/jemp2018/templates/as002085free/css/media.1200.css" rel="stylesheet" type="text/css" />
+	<link href="/jemp2018/templates/as002085free/css/media.979.css" rel="stylesheet" type="text/css" />
+	<link href="/jemp2018/templates/as002085free/css/media.767.css" rel="stylesheet" type="text/css" />
+	<link href="/jemp2018/templates/as002085free/css/media.640.css" rel="stylesheet" type="text/css" />
+	<link href="/jemp2018/templates/as002085free/css/media.480.css" rel="stylesheet" type="text/css" />
+	<link href="/jemp2018/templates/as002085free/css/kunena.css" rel="stylesheet" type="text/css" />
+	<link href="/jemp2018/templates/as002085free/css/komento.css" rel="stylesheet" type="text/css" />
+	<link href="/jemp2018/templates/as002085free/css/font-awesome.css" rel="stylesheet" type="text/css" />
+	<link href="/jemp2018/templates/as002085free/css/tmpl.layout.css" rel="stylesheet" type="text/css" />
+	<link href="/jemp2018/templates/as002085free/css/style.custom.css" rel="stylesheet" type="text/css" />
+	<link href="/jemp2018/media/mod_pwebbox/css/bootstrap-custom.css" rel="stylesheet" type="text/css" />
+	<link href="/jemp2018/media/mod_pwebbox/css/layout.css" rel="stylesheet" type="text/css" />
+	<link href="/jemp2018/media/mod_pwebbox/css/animations.css" rel="stylesheet" type="text/css" />
+	<link href="/jemp2018/media/mod_pwebbox/css/icomoon.css" rel="stylesheet" type="text/css" />
+	<link href="/jemp2018/media/mod_pwebbox/css/themes/free.css" rel="stylesheet" type="text/css" />
+	<link href="/jemp2018/media/mod_pwebbox/css/ie8.css" rel="stylesheet" type="text/css" />
+	<link href="/jemp2018/modules/mod_visitorcounter/mod_visitorcounter.css" rel="stylesheet" type="text/css" />
+	<link href="/jemp2018/modules/mod_as_contact_form/css/style.css" rel="stylesheet" type="text/css" />
+	<link href="/jemp2018/plugins/content/jw_allvideos/jw_allvideos/tmpl/Responsive/css/template.css" rel="stylesheet" type="text/css" />
+	<link href="http://www.univ-bejaia.dz/jemp2018/templates/as002085free/css/sequence.css" rel="stylesheet" type="text/css" />
+	<link href="/jemp2018/media/mod_languages/css/template.css?572f654dc3c43cc2eecf2d29cb07501c" rel="stylesheet" type="text/css" />
+	<link href="/jemp2018/modules/mod_as_superfish_menu/css/superfish.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+#pwebbox122{left:10px}#pwebbox122_toggler{background-color:#37b373;background-image:-webkit-linear-gradient(top,rgb(85,209,145),#37b373);background-image:-moz-linear-gradient(top,#37b373,rgb(85,209,145));background-image:-ms-linear-gradient(top,#37b373,rgb(85,209,145));background-image:-o-linear-gradient(top,#37b373,rgb(85,209,145));background-image:linear-gradient(top,#37b373,rgb(85,209,145));border-color:#37b373;text-shadow:0 1px 1px rgba(0,0,0,0.5);color:#ffffff;font-size:20px}#pwebbox122_toggler .pwebbox-toggler-link{text-decoration:none;background-color:#37b373;background-image:-webkit-linear-gradient(top,rgb(85,209,145),#37b373);background-image:-moz-linear-gradient(top,#37b373,rgb(85,209,145));background-image:-ms-linear-gradient(top,#37b373,rgb(85,209,145));background-image:-o-linear-gradient(top,#37b373,rgb(85,209,145));background-image:linear-gradient(top,#37b373,rgb(85,209,145));border-color:#37b373;text-shadow:0 1px 1px rgba(0,0,0,0.5);color:#ffffff;font-size:20px}#pwebbox122_toggler .pweb-icon:before{content:"\74"}
+	</style>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"9e63c728a2fe18f7e5b88be7f4f1ed84","system.paths":{"root":"\/jemp2018","base":"\/jemp2018"}}</script>
+	<script src="/jemp2018/media/jui/js/jquery.min.js?572f654dc3c43cc2eecf2d29cb07501c" type="text/javascript"></script>
+	<script src="/jemp2018/media/jui/js/jquery-noconflict.js?572f654dc3c43cc2eecf2d29cb07501c" type="text/javascript"></script>
+	<script src="/jemp2018/media/jui/js/jquery-migrate.min.js?572f654dc3c43cc2eecf2d29cb07501c" type="text/javascript"></script>
+	<script src="/jemp2018/media/system/js/caption.js?572f654dc3c43cc2eecf2d29cb07501c" type="text/javascript"></script>
+	<script src="/jemp2018/media/jui/js/bootstrap.min.js?572f654dc3c43cc2eecf2d29cb07501c" type="text/javascript"></script>
+	<script src="/jemp2018/media/mod_pwebbox/js/jquery.cookie.min.js" type="text/javascript"></script>
+	<script src="/jemp2018/media/mod_pwebbox/js/jquery.pwebbox.min.js" type="text/javascript"></script>
+	<script src="/jemp2018/modules/mod_as_contact_form/js/jquery.validate.min.js" type="text/javascript"></script>
+	<script src="/jemp2018/modules/mod_as_contact_form/js/additional-methods.min.js" type="text/javascript"></script>
+	<script src="/jemp2018/modules/mod_as_contact_form/js/autosize.min.js" type="text/javascript"></script>
+	<script src="/jemp2018/modules/mod_as_contact_form/js/ajaxsendmail.js" type="text/javascript"></script>
+	<script src="/jemp2018/media/system/js/mootools-core.js?572f654dc3c43cc2eecf2d29cb07501c" type="text/javascript"></script>
+	<script src="/jemp2018/media/system/js/core.js?572f654dc3c43cc2eecf2d29cb07501c" type="text/javascript"></script>
+	<script src="/jemp2018/plugins/content/jw_allvideos/jw_allvideos/includes/js/behaviour.js?v=4.8.0" type="text/javascript"></script>
+	<script src="/jemp2018/plugins/content/jw_allvideos/jw_allvideos/includes/js/wmvplayer/silverlight.js?v=4.8.0" type="text/javascript"></script>
+	<script src="/jemp2018/plugins/content/jw_allvideos/jw_allvideos/includes/js/wmvplayer/wmvplayer.js?v=4.8.0" type="text/javascript"></script>
+	<script src="/jemp2018/plugins/content/jw_allvideos/jw_allvideos/includes/js/quicktimeplayer/ac_quicktime.js?v=4.8.0" type="text/javascript"></script>
+	<script src="https://cdn.jsdelivr.net/gh/clappr/clappr@latest/dist/clappr.min.js" type="text/javascript"></script>
+	<script src="https://content.jwplatform.com/libraries/VudZEfME.js" type="text/javascript"></script>
+	<script src="http://www.univ-bejaia.dz/jemp2018/modules/mod_as_sequence_slider/js/jquery.sequence.js" type="text/javascript"></script>
+	<script src="/jemp2018/modules/mod_as_superfish_menu/js/superfish.min.js" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});(function($){$(document).ready(function(){autosize($("textarea"))})})(jQuery);(function($){$(document).ready(function(){var v=$("#contact-form_97").validate({wrapper:"mark",submitHandler:function(f){$(f).ajaxsendmail();return false}});$("#clear_97").click(function(){$("#contact-form_97").trigger("reset");v.resetForm();if(!$.support.placeholder){$(".mod_as_contact_form *[placeholder]").each(function(n){$(this).parent().find(">.form_placeholder").show()})}return false});$("#telephone_2").rules("add", {number: true});})})(jQuery);
+	</script>
+	<link href="http://www.univ-bejaia.dz/jemp2018/index.php/fr/" rel="alternate" hreflang="x-default" />
+
+    
+    <!--[if lt IE 9]>
+    <script src="/jemp2018/templates/as002085free/js/html5shiv+printshiv.js"></script>
+    <![endif]-->  
+
+	
+<style type="text/css">
+
+body
+{
+	font-family: 'Lato', Arial, serif !important;	}
+
+h1, 
+h2, 
+h3, 
+h4, 
+h5,
+h6
+{
+	font-family: 'Lato', Arial, serif !important;	
+}
+
+h1
+{
+		
+}
+
+h2
+{
+		
+}
+
+h3
+{
+		
+}
+
+h4
+{
+		
+}
+
+h5
+{
+		
+}
+
+h6
+{
+		
+}
+
+</style>
+</head>
+
+<body class="com_content view-article task- itemid-101 body__">
+	
+    <!--[if lt IE 8]>
+    <div style=' clear: both; text-align:center; position: relative;'>
+   		<a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode">
+    		<img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" height="42" width="820" 
+        	alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." />
+   		</a>
+    </div>
+    <![endif]-->
+
+    <div id="wrapper">
+    	<div class="wrapper-inner">
+        
+        	<!-- HEADER ROWS ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  -->
+            
+    		<div id="menu-row">
+                <div class="row-container">
+    				<div id="logo">
+						                     
+                            <a href="/jemp2018">
+                                <h1><span class="char_0">J</span> <span class="char_1">E</span> <span class="char_2">M</span> <span class="char_3">P</span> <span class="char_4">&nbsp;</span> <span class="char_5">2</span> <span class="char_6">0</span> <span class="char_7">1</span> <span class="char_8">8</span> </h1>
+                                 <!--<h6><h6>Université de Bejaia</h6>-->
+                                     
+                                    <h6>Université de Bejaia</h6>    
+                                     
+                            </a>
+                            				</div>
+   					<div class="moduletable navigation main_menu">
+<a class="btn btn-navbar btn-sf-menu">
+	<span class="fa fa-bars"></span>
+</a>
+ 
+
+<ul class="sf-menu   sticky" id="module-100">
+
+<li class="item-101 current active"><a href="/jemp2018/index.php/fr/" >Accueil</a></li>
+		<li class="item-140 deeper dropdown parent"><a href="/jemp2018/index.php/fr/presentation" >Preséntation</a>
+		<ul class="sub-menu">
+		<li class="item-159"><a href="/jemp2018/index.php/fr/presentation/jemp-2018" >JEMP'2018</a></li>
+		<li class="item-166"><a href="/jemp2018/index.php/fr/presentation/sponsoring-exhibition" >Sponsoring - Exhibition</a></li>
+		<li class="item-160"><a href="/jemp2018/index.php/fr/presentation/informations-utiles" >Informations Utiles</a></li>
+		</ul>
+			</li>
+			<li class="item-141"><a href="/jemp2018/index.php/fr/programme" >Programme</a></li>
+		<li class="item-142 deeper dropdown parent"><a href="/jemp2018/index.php/fr/comites" >Comités</a>
+		<ul class="sub-menu">
+		<li class="item-157"><a href="/jemp2018/index.php/fr/comites/comite-d-organisation" >Comité d’organisation </a></li>
+		<li class="item-158"><a href="/jemp2018/index.php/fr/comites/comite-scientifique" >Comité scientifique</a></li>
+		</ul>
+			</li>
+			<li class="item-151 deeper dropdown parent"><a href="/jemp2018/index.php/fr/inscription" >Inscription</a>
+		<ul class="sub-menu">
+		<li class="item-192"><a href="/jemp2018/index.php/fr/inscription/comment-s-inscrire" >Comment s'inscrire</a></li>
+		<li class="item-167"><a href="/jemp2018/index.php/fr/inscription/soumission-des-resumes" >Soumission des résumés</a></li>
+		<li class="item-154"><a href="/jemp2018/index.php/fr/inscription/frais-de-participation" >Frais de participation</a></li>
+		</ul>
+			</li>
+			<li class="item-152"><a href="/jemp2018/index.php/fr/contact" >Contact</a></li>
+		</ul>
+
+<script>
+	// initialise plugins
+	jQuery(function($){
+		$('#module-100')
+			 
+		.superfish({
+			hoverClass:    'sfHover',         
+			pathClass:     'overideThisToUse',
+			pathLevels:    1,    
+			delay:         500, 
+			animation:     {opacity:'show'}, 
+			speed:         'normal',   
+			speedOut:      'fast',   
+			autoArrows:    false, 
+			disableHI:     false, 
+			useClick:      0,
+			easing:        "swing",
+			onInit:        function(){},
+			onBeforeShow:  function(){},
+			onShow:        function(){},
+			onHide:        function(){},
+			onIdle:        function(){}
+		})
+		 
+		var ismobile = navigator.userAgent.match(/(iPhone)|(iPod)|(android)|(webOS)/i)
+		if(ismobile){
+			$('#module-100').sftouchscreen();
+		}
+		$('.btn-sf-menu').click(function(){
+			$('#module-100').toggleClass('in')
+		});
+					$('#module-100').parents('[id*="-row"]').scrollToFixed({minWidth :751});
+					})
+</script></div>
+   			 	</div>
+    		</div>
+
+             <!-- language menu -->
+                        <div id="languagemenu-row">  
+                 <div class="row-container">
+                        <div>
+                            <div class="mod-languages">
+
+	<ul class="lang-inline">
+						<li class="lang-active" dir="ltr">
+			<a href="/jemp2018/index.php/fr/">
+												<img src="/jemp2018/media/mod_languages/images/fr_fr.gif" alt="Français (France)" title="Français (France)" />										</a>
+			</li>
+								<li dir="ltr">
+			<a href="/jemp2018/index.php/en/">
+												<img src="/jemp2018/media/mod_languages/images/en_gb.gif" alt="English (United Kingdom)" title="English (United Kingdom)" />										</a>
+			</li>
+				</ul>
+
+</div>
+
+                        </div>              
+                </div>        
+            </div>
+                        
+			            <div id="slider-row">
+            	<div class="moduletable ">
+<div id="sequence98" class="sequence-slider sequence-thumbnails" style="padding-bottom:35%">
+
+	    <div class="sequence-prev"></div>
+    <div class="sequence-next"></div>
+    
+	
+	    <div class="sequence-preloader">
+        <svg class="preloading" xmlns="http://www.w3.org/2000/svg">
+            <circle class="circle" cx="6" cy="6" r="6"></circle>
+            <circle class="circle" cx="22" cy="6" r="6"></circle>
+            <circle class="circle" cx="38" cy="6" r="6"></circle>
+        </svg>
+    </div>
+    
+	
+    <ul class="sequence-canvas">
+            <li>	
+        
+	
+    <img class="slide-img" src="/jemp2018/images/slider/slide-1.jpg" alt="">
+	
+<div class="info">
+
+		<div class="camera_caption ">
+
+					
+		<h3 class="slide-title">
+								JEMP' 2018					</h3>
+	
+			
+			
+			
+				<p>Journées d'Etudes des Matériaux Polymères <br />Bejaia, les <span style="color: #37b373;"><strong>14</strong></span> et <span style="color: #37b373;"><strong>15</strong> <strong>Octobre 2018</strong></span></p>	
+		<!-- Read More link -->
+		
+	</div>
+	
+</div>
+        </li>
+                <li>	
+        
+	
+    <img class="slide-img" src="/jemp2018/images/slider/slide-2.jpg" alt="">
+	
+<div class="info">
+
+		<div class="camera_caption ">
+
+					
+		<h3 class="slide-title">
+								Vue générale de Bejaia 					</h3>
+	
+			
+			
+			
+				<p> </p>
+<p> </p>	
+		<!-- Read More link -->
+		
+	</div>
+	
+</div>
+        </li>
+                <li>	
+        
+	
+    <img class="slide-img" src="/jemp2018/images/slider/slide-3.jpg" alt="">
+	
+<div class="info">
+
+		<div class="camera_caption ">
+
+					
+		<h3 class="slide-title">
+								Plage "Ache El-Vaz"- Bejaia					</h3>
+	
+			
+			
+			
+					
+		<!-- Read More link -->
+		
+	</div>
+	
+</div>
+        </li>
+            </ul>
+</div>
+
+<script type="text/javascript">
+	jQuery(document).ready(function($){
+		var options98 = {
+            autoPlay: true,
+            autoPlayDelay: 10000,
+            // startingFrameID: ,
+            nextButton:true,
+            prevButton:true,
+            pauseButton:false,
+                        pagination: false,
+            			preloader: true,
+			pauseOnHover:false,
+			reverseAnimationsWhenNavigatingBackwards:false,
+            fallback: {
+                theme: "fade",
+                speed: 2000
+            },
+            swipeEvents: {
+			    left: "next",
+			    right: "prev",
+			    up: false,
+			    down: false
+			}
+        }
+        var sequence = jQuery("#sequence98").sequence(options98).data("sequence");
+    });
+</script>
+</div>
+            </div>
+            
+			
+            
+            <!-- END OF HEADER ROWS ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+            
+            <!-- CONTENT ROWS ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+            
+			            <div id="content-row-1" class="margin-top" >
+                <div class="row-container">
+                    <div class="container-fluid">
+                        <div class="row-fluid">
+                            <div class="moduletable  "><div class="moduletable-wrapper"><div class="mod-newsflash-adv mod-newsflash-adv__ cols-3" id="module_96">
+    <div class="row-fluid">
+    <article class="span0 item item_num0 item__module  " id="item_10">
+    <div class="item_container">
+      
+<a href="/jemp2018/index.php/fr/10-flash-news-haut/10-laboratoire-lmpa">
+<div class="item_content">
+	<!-- Item title -->
+		<!-- Introtext -->
+		<div class="item_introtext">
+		<h3><a href="/jemp2018/../lmpa/">LMPA</a></h3>
+<p id="system-readmore">Le Laboratoire des Matériaux Polymères Avancés (LMPA) comprend 04 équipes de recherche totalisant 36 chercheurs dont 04 Professeurs, 12 maîtres de conférences et 12 doctorants...</p>
+<p> </p>	</div>
+        
+	
+	<!-- Read More link -->
+	</div>
+</a>
+		<!-- Intro Image -->
+        <figure id="fig_10" class="item_img img-intro img-intro__none">
+                            <img src="/jemp2018/images/articles/labo-lmpa.jpg" alt="">
+                                <figcaption class="caption_box" >Le Laboratoire des Matériaux Polymères Avancés de l'Université de Bejaia</figcaption>
+                        </figure>
+	
+<div class="clearfix"></div>    </div>
+  </article>
+    <article class="span0 item item_num1 item__module  " id="item_9">
+    <div class="item_container">
+      
+<a href="/jemp2018/index.php/fr/10-flash-news-haut/9-inscription">
+<div class="item_content">
+	<!-- Item title -->
+		<!-- Introtext -->
+		<div class="item_introtext">
+		<h3><a href="/jemp2018/index.php/inscription">Inscription</a></h3>
+<p>L'inscription aux JEMP'2018 et la soumission de résumés de communication selon le modèle requis se feront après ouverture d'un compte via le lien "<strong>connexion</strong>-&gt;<strong>créer un compte</strong>".</p>
+<p> </p>	</div>
+        
+	
+	<!-- Read More link -->
+	</div>
+</a>
+		<!-- Intro Image -->
+        <figure id="fig_9" class="item_img img-intro img-intro__none">
+                            <img src="/jemp2018/images/articles/Casbah-de-Bejaia.jpg" alt="">
+                                <figcaption class="caption_box" >La Casbah de Bejaia</figcaption>
+                        </figure>
+	
+<div class="clearfix"></div>    </div>
+  </article>
+    <article class="span0 item item_num2 item__module   lastItem" id="item_8">
+    <div class="item_container">
+      
+<a href="/jemp2018/index.php/fr/10-flash-news-haut/8-informations">
+<div class="item_content">
+	<!-- Item title -->
+		<!-- Introtext -->
+		<div class="item_introtext">
+		<h3><a href="/jemp2018/index.php/presentation/informations-utiles">Informations</a></h3>
+<p>- Modalités de paiement des frais d'inscription<br /> - Hébergement (Liste des Hôtels)<br /> - Moyens de transport, Visa ...</p>	</div>
+        
+	
+	<!-- Read More link -->
+	</div>
+</a>
+		<!-- Intro Image -->
+        <figure id="fig_8" class="item_img img-intro img-intro__none">
+                            <img src="/jemp2018/images/articles/Campus.jpg" alt="">
+                                <figcaption class="caption_box" >Vue panoramique du Campus Targua-Ouzemour</figcaption>
+                        </figure>
+	
+<div class="clearfix"></div>    </div>
+  </article>
+    </div> 
+  <div class="clearfix"></div>
+
+  </div>
+</div></div><div class="moduletable  "><div class="moduletable-wrapper">
+<div class="mod-article-single mod-article-single__" id="module_102">
+	<div class="item__module" id="item_11">
+				<!-- Item Title -->
+		<h2 class="item-title">
+			Bienvenue		</h2>
+		
+		<!-- Intro Text -->
+		<div class="item_introtext">
+			<p>Cher(e)s Collègues,</p>
+<p style="text-align: justify;">C'est avec un grand plaisir que nous vous invitons à la <strong><span style="color: #37b373;">2<sup>ème</sup></span> </strong> Edition des Journées d'Etudes des Matériaux Polymères (JEMP'2018) qui se tiendront dans le Campus "Targa-Ouzemmour" à Bejaia, Algérie du <strong><span style="color: #37b373;">14</span></strong> au <strong><span style="color: #37b373;">15</span> </strong><span style="color: #37b373;"><strong>Octobre 2018 .</strong> </span> Initiées en Octobre 2013, Les JEMP visent à créer une plateforme pour la présentation et la discussion des résultats de recherche au sein de la communauté polymèriste nationale et internationale. La ville de Bejaia, Capitale de la Vallée de la Soummam en Kabylie est non seulement un des meilleurs centres de recherche en sciences et technologie des matériaux polymères, mais également un centre de rayonnement culturel en Algérie. En effet, Bejaia possède des monuments historiques, des musés et un environnement offrant de beaux paysages romantiques tirés vers la Méditerranée.</p>
+<p>Dans l'attente de vous accueillir à Bejaia, cordiales salutations. </p>		</div>	
+	</div>
+  </div></div></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+			    
+			    
+			            <div id="content-row-4">
+                <div class="row-container">
+                    <div class="container-fluid">
+                        <div class="row-fluid">
+	                        <div class="moduletable centred "><div class="moduletable-wrapper"><div class="mod-newsflash-adv mod-newsflash-adv__centred cols-3" id="module_110">
+    <div class="row-fluid">
+    <article class="span0 item item_num0 item__module  " id="item_24">
+    <div class="item_container">
+      
+<div class="item_content">
+	<!-- Item title -->
+		<!-- Introtext -->
+		<div class="item_introtext">
+		<h4><a href="/jemp2018/images/documents/Template.docx">Télécharger<br /> Modèle de Résumé</a>  </h4>	</div>
+        
+	
+	<!-- Read More link -->
+	</div>
+		<!-- Intro Image -->
+        <figure id="fig_24" class="item_img img-intro img-intro__none">
+                            <img src="/jemp2018/images/pencil.png" alt="">
+                        </figure>
+	
+<div class="clearfix"></div>    </div>
+  </article>
+    <article class="span0 item item_num1 item__module  " id="item_23">
+    <div class="item_container">
+      
+<div class="item_content">
+	<!-- Item title -->
+		<!-- Introtext -->
+		<div class="item_introtext">
+		<h4><a href="/jemp2018/images/documents/Affiche JEMP2018 - Francais finale.pdf" target="_blank" rel="noopener noreferrer">Télécharger <br />Affiche du séminaire</a></h4>	</div>
+        
+	
+	<!-- Read More link -->
+	</div>
+		<!-- Intro Image -->
+        <figure id="fig_23" class="item_img img-intro img-intro__none">
+                            <img src="/jemp2018/images/affiche.png" alt="">
+                        </figure>
+	
+<div class="clearfix"></div>    </div>
+  </article>
+    <article class="span0 item item_num2 item__module   lastItem" id="item_22">
+    <div class="item_container">
+      
+<div class="item_content">
+	<!-- Item title -->
+		<!-- Introtext -->
+		<div class="item_introtext">
+		<h4><a href="/jemp2018/images/documents/Appel JEMP2018 - Francais finale.pdf" target="_blank" rel="noopener noreferrer">Télécharger <br />Appel à Communications</a></h4>	</div>
+        
+	
+	<!-- Read More link -->
+	</div>
+		<!-- Intro Image -->
+        <figure id="fig_22" class="item_img img-intro img-intro__none">
+                            <img src="/jemp2018/images/cropped-communiquer-1.png" alt="">
+                        </figure>
+	
+<div class="clearfix"></div>    </div>
+  </article>
+    </div> 
+  <div class="clearfix"></div>
+
+  </div>
+</div></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+			<div id="message-row">
+                <div class="row-container">
+                    <div class="container-fluid">
+                        <div id="system-message-container">
+	</div>
+
+                    </div>
+                </div>
+            </div>
+    
+            <div id="main-content-row">
+                <div class="row-container">
+                    <div class="container-fluid">
+                        <div class="content-inner row-fluid"> 
+                          
+                            <!-- LEFT SIDEBAR ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+                                                        
+                            <!-- END OF COlUMN LEFT ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+                                    
+                            <!-- COLUMN MAIN ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->   
+                            <div id="component" class="span12">
+                                <main role="main">
+                                     
+                                    <div id="main-content-top-row" class="row-fluid">
+                                        <div id="content-top">
+                                            <div class="moduletable  "><div class="moduletable-wrapper">
+<div class="mod-article-single mod-article-single__" id="module_120">
+	<div class="item__module" id="item_51">
+		
+		<!-- Intro Text -->
+		<div class="item_introtext">
+			<div class="row">
+<div class="span6" style="text-align: justify;">
+<h4 style="text-align: justify;">Ville de Bejaia</h4>
+Bejaia, Bgayet en Tamaziγt; Bougie étant l'ancien nom français de la ville, Saldae au temps des Romains et Vaga en libyco-berbère est une ville côtière d'Algérie située à environ 250 km à l'Est de la capitale Alger. Bejaia est la plus grande ville de kabylie, <br />elle est dotée de l'un des plus grands ports pétroliers et commerciaux en Méditerranée et dispose également d'un aéroport international assurant des liaisons régulières avec la France. C'est aussi un pôle industriel dans l'agro-alimentaire. De par ses paysages magnifiques, ses plages au sable d'or et son histoire millénaire, Bejaia est une ville touristique par excellence. Connue à l'époque romaine sous le nom de Saldae, elle devint au Moyen Âge l'une des cités les plus prospères de la côte méditerranéenne. Capitale de grandes dynasties musulmanes à partir de l'an 1067, Bejaia a subi plusieurs occupations étrangères, notamment, espagnole ( 1510-1555), ottomane (1555-1823) et française(1830-1962). Elle est  Connue en Europe grâce à la qualité de ses chandelles faites de cire d'abeille, Bejaia a également joué un rôle important dans la diffusion des « chiffres arabes » en Occident.</div>
+<div class="span6">
+
+<!-- JoomlaWorks "AllVideos" Plugin (v4.8.0) starts here -->
+
+<div class="avPlayerWrapper avVideo">
+	<div class="avPlayerContainer">
+		<div id="AVPlayerID_0_c4691cb063b17732e266cd765ddb8b8b" class="avPlayerBlock">
+			
+<div id="avID_AVPlayerID_0_c4691cb063b17732e266cd765ddb8b8b" style="width:600px;height:420px;" title="JoomlaWorks AllVideos Player"></div>
+<script type="text/javascript">
+    var player = new Clappr.Player({
+        source: '/jemp2018/images/videos/Bejaia.mp4',
+        poster: '',
+        height: '420',
+        width: '600',
+        autoPlay: false,
+        loop: false,
+        //hideMediaControl: 1,
+        parentId: '#avID_AVPlayerID_0_c4691cb063b17732e266cd765ddb8b8b'
+    });
+</script>
+					</div>
+	</div>
+</div>
+
+<!-- JoomlaWorks "AllVideos" Plugin (v4.8.0) ends here -->
+
+</div>
+</div>		</div>	
+	</div>
+  </div></div></div>
+                                        </div>
+                                    </div>
+                                            
+                                    
+                                    <article class="page-item page-item__">
+		<div class="item_fulltext"> </div>
+		
+	
+	<!-- Social Sharing -->
+	 
+	<!-- Pagination -->
+	</article> 
+                                      
+                                         
+                                    <div id="main-content-bottom-row" class="row-fluid">
+                                        <div id="content-bottom">
+                                            <div class="moduletable  "><div class="moduletable-wrapper"><header><h3 class="moduleTitle "><span class="item_title_part0">Contactez</span> <span class="item_title_part1">nous</span> </h3></header>
+<div class="mod_as_contact_form">
+
+<div id="contact_97">
+	<form class="mod_as_contact_form" id="contact-form_97" novalidate>
+		<input type="hidden" id="module_id" name="module_id" value="97">
+		<div class="mod_as_contact_form_message" id="message_97">
+			<span class="s">Merçi ! Votre message a étes envoyé.</span>
+			<span class="e">Quelque chose ne va pas , veuillez reésseyez une autre fois.</span>
+		</div>
+		<fieldset>
+			<div class="row-fluid">
+				<div class="control-group control-group-input span4"><div class="controls"><input type="text" placeholder="Nom" name="nom" id="nom_0" class="mod_as_contact_form_text hasTooltip" required title="Nom"></div>
+					</div><div class="control-group control-group-input span4"><div class="controls"><input type="email" placeholder="Email" name="email" id="email_1" class="mod_as_contact_form_email hasTooltip" required title="Email"></div>
+					</div><div class="control-group control-group-input span4"><div class="controls"><input type="tel" placeholder="Téléphone" name="telephone" id="telephone_2" class="mod_as_contact_form_tel hasTooltip" required title="Téléphone"></div>
+					</div><div class="control-group control-group-input span12"><div class="controls"><input type="text" placeholder="Objet" name="objet" id="objet_3" class="mod_as_contact_form_text hasTooltip" required title="Objet"></div>
+					</div><div class="control-group control-group-input span12"><div class="controls"><textarea name="message" placeholder="Message" id="message_4" class="mod_as_contact_form_textarea hasTooltip" title="Message"></textarea></div>
+					</div>
+				<!-- Submit Button -->
+				<div class="control-group control-group-button span12">
+					<div class="controls">
+						<button type="submit" class="btn btn-primary mod_as_contact_form_btn">Envoyer</button>
+											<button type="reset" id="clear_97" class="btn btn-primary mod_as_contact_form_btn">Effacer</button>
+										</div>
+				</div>
+			</div>
+		</fieldset>
+	</form>
+</div>
+
+</div></div></div>
+                                        </div>
+                                    </div>
+                                               
+                                                                        
+                                
+                                </main>
+                            </div>
+                            <!-- END OF COLUMN MAIN ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --> 
+            
+                            <!-- RIGHT SIDEBAR ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->                       
+                                                        <!-- END OF RIGHT SIDEBAR ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+			
+			
+			            
+			                
+                        
+            <!-- END OF CONTENT ROWS ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+    	</div>
+    </div>
+    
+    <div id="footer-wrapper">
+    	<div class="footer-wrapper-inner">
+            <!-- FOOTER ROWS ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+    
+			            
+                        
+    		            <div id="footer-row-3">
+                <div class="row-container">
+                    <div class="container-fluid">
+                        <div id="footer" class="row-fluid">
+	                        <div class="moduletable span4 "><div class="moduletable-wrapper"><!-- VCNT - Visitorcounter for Joomla! 3.x - Kubik-Rubik Joomla! Extensions - Viktor Vogel --><div class="visitorcounter span4">
+			<p>
+																																					VISITEURS:  7803					</p>
+				</div></div></div><div class="moduletable menu__social span8 "><div class="moduletable-wrapper"><div class="mod-custom mod-custom__menu__social span8"  >
+	<ul class="menu social">
+<li><a class="fa fa-facebook" href="https://www.facebook.com/Laboratoire-des-Mat%C3%A9riaux-Polym%C3%A8res-Avanc%C3%A9s-LMPA-2075745752704142/?ref=settings" target="_blank" rel="noopener noreferrer"><span class="invisible">facebook</span></a></li>
+<li><a class="fa fa-twitter" href="https://twitter.com/JEMP_2018" target="_blank" rel="noopener noreferrer"><span class="invisible">twiter</span></a></li>
+</ul></div></div></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                        <div id="push"></div>
+            
+		    <div id="copyright-row" role="contentinfo">
+    			<div id="copyright">
+    				<span class="copy">Copyright &copy;</span>    				<span class="year">2019</span>    				    				<span class="siteName">JEMP 2018</span>
+    				                    
+                      
+                       
+                <!-- DO NOT REMOVE OR CHANGE THE CONTENT BELOW, THIS THEME MAY NOT WORK PROPERLY -->
+                
+                <div id="ascopy"> 
+                <a href="http://www.astemplates.com/" target="_blank">
+                    TEMPLATE BY: AS DESIGNING
+                </a>
+                </div>
+                
+                <!-- DO NOT REMOVE OR CHANGE THE CONTENT ABOVE, THIS THEME MAY NOT WORK PROPERLY -->    
+                                                     
+    			</div>
+                
+				   
+    		</div>
+    	</div>
+    </div>
+    
+        <div id="back-top">
+    	<a href="#top"><i class="fa fa-chevron-circle-up"></i></a>
+    </div>
+        
+        <div class="modal hide fade moduletable  loginPopup" id="modal"><div class="modal-header"><button type="button" class="close modalClose">×</button><header><h3 class=""><span class="item_title_part0">news</span> <span class="item_title_part1">box</span> <span class="item_title_part2">fr</span> </h3></header></div><div class="modal-body"><!-- PWebBox -->
+
+
+    <div id="pwebbox122" class="pwebbox pweb-bottom pweb-offset-left pweb-slidebox pwebbox-plugin-custom_html pweb-close-event-mouseleave pweb-theme-free pweb-gradient pweb-horizontal pweb-toggler-slide" dir="ltr">
+
+        
+                
+        <div id="pwebbox122_box" class="pwebbox-box pweb-slidebox pwebbox-plugin-custom_html pweb-close-event-mouseleave pweb-theme-free pweb-gradient pweb-horizontal pweb-toggler-slide pweb-init" dir="ltr">
+
+            <div class="pwebbox-container-outset">
+                <div id="pwebbox122_container" class="pwebbox-container">
+                    <div class="pwebbox-container-inset">
+
+                        <div id="pwebbox122_toggler" class="pwebbox122_toggler pwebbox_toggler pweb-closed pweb-gradient pweb-theme-free pweb-icon pweb-icon-icomoon"><span class="pweb-text">News</span><span class="pweb-icon"></span></div>
+                        
+                        
+                        <div class="pwebbox-content" id="pwebbox122_content">
+                                <!-- PWebBox Custom HTML plugin -->
+<div class="pwebbox-customhtml-container">
+    <div id="pwebbox_customhtml_122">
+        <div  style="height:450px;">
+<p><span style="font-size:18px;color:#37b373;"><strong><a href="http://www.univ-bejaia.dz/jemp2018/index.php/fr/programme">*Note concernant le format des posters:
+</strong></span></a><br/>
+<div style="height:50px; "class="alert alert-success"><strong>La  dimension et la taille des posters à présenter doivent être au format "A1" </strong> </div>
+</p>
+<p><span style="font-size:18px;color:#37b373;"><strong><a href="http://www.univ-bejaia.dz/jemp2018/index.php/fr/programme">* Liste définitive des participants retenus pour des communications par affiche 
+</strong></span></a>
+</p>
+<div  style="height:450px;">
+<p><span style="font-size:18px;color:#37b373;"><strong><a href="http://www.univ-bejaia.dz/jemp2018/index.php/fr/programme">* Programme Scientifique Final des JEMP’ 2018</strong></span></a>
+</p>
+<h4> * Conferenciers invités (liste ouverte):</h4>
+<ul>
+<li>Pr Walter W Focke (Université de Pretoria-Afrique du Sud)</li>
+<li>Pr Stéphane Bruzaud (IRDL- Université Bretagne Sud- France)</li>
+<li> Pr Yves Grohens (IRDL- Université Bretagne Sud- France)</li>
+<li>Pr Christelle Delaite (Université Haute Alsace, Mulhouse - France)</li>
+<li>Pr José-Marie Lopez-Cuesta (Centre des Matériaux des Mines d’Alès (C2MA), IMT Mines Alès-France)</li>
+<li>Pr Radu SETNESCU (Université Valahia de Targoviste-Roumanie)</li>
+</ul>
+<div>    </div>
+</div>
+<!-- PWebBox Custom HTML plugin end -->
+                        </div>                    
+
+                    </div>
+                    
+                                    </div>
+            </div>
+
+        </div>
+                
+            </div>
+
+<script type="text/javascript">
+jQuery(document).ready(function($){pwebBox122=new pwebBox({id:122,theme:"free",layout:"slidebox",position:"bottom",offsetPosition:"left",togglerNameClose:"",openAuto:1,maxAutoOpen:1,cookieLifetime:1,cookiePath:"/jemp2018",openDelay:2000,closeDelay:5000,closeOther:0})});</script>
+<!-- PWebBox end -->
+</div></div>
+        
+        
+        <script src="/jemp2018/templates/as002085free/js/jquery.centerIn.js"></script>
+    <script>
+    jQuery(function($) {
+	    $('.modal.loginPopup').alwaysCenterIn(window);
+    });
+    </script>
+        
+        
+        
+    <script src="/jemp2018/templates/as002085free/js/jquery.vide.min.js"></script>
+    <script src="/jemp2018/templates/as002085free/js/scripts.js"></script>
+    <script src="/jemp2018/templates/as002085free/js/jquery.lazy.min.js"></script>
+    <script src="/jemp2018/templates/as002085free/js/added.js"></script>
+
+    
+</body>
+</html>
