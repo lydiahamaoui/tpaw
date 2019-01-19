@@ -12,7 +12,7 @@
 </p>
 
 </h3>
-Référence technique [w3schools.com](https://www.w3schools.com/) 
+Référence technique <a href="https://www.w3schools.com/">w3schools.com</>
 
 </p>
 
@@ -78,7 +78,7 @@ Référence technique [w3schools.com](https://www.w3schools.com/)
 # 4. CSS
 
 * Créer un fichier cv.css dans le dossier "TP1"
-* Entre les balises HEAD du  document cv.html ajouter une référence au fichier CSS 
+* Entre les balises HEAD du  document index.html ajouter une référence au fichier CSS 
   
 ```html
 <link rel="stylesheet" href="cv.css" />
